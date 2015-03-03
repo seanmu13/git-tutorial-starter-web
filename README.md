@@ -8,5 +8,11 @@ showing how to use Git and Github together
 This is example
 
 ## Purpose
+
+This is purpose text
+
 ## Deployment
+
+This is deployment text
+
 ## How to Contribute
