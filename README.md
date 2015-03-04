@@ -17,6 +17,8 @@ This is deployment text
 
 ## How to Contribute
 
+Please fork this repository and issue pull request for review
+
 ### Copyright
 
 2015 Git Training
