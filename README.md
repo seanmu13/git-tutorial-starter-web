@@ -16,3 +16,7 @@ This is purpose text
 This is deployment text
 
 ## How to Contribute
+
+### Copyright
+
+2015 Git Training
