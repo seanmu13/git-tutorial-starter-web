@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sean Mu   email@domain.com
 
 # THANKS
 
